@@ -1,6 +1,6 @@
 实现原理：利用HTML5的canvas，画出手势密码的初始界面和圆圈，利用touch事件记录手势的路径，并根据不同的情况对输入的密码进行处理和判断，将结果返回。
 
-demo演示地址：http://xxwu.tech/360/index.html
+demo演示地址：http://xxwu.tech/360star/index.html
 
 
 ************控制台设计************
